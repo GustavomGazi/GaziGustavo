@@ -9,6 +9,7 @@ Sou um entusiasta da tecnologia com foco em **Java**, **Python** e **Inteligênc
 - **Linguagens de Programação:** Java, Python
 - **Inteligência Artificial:** Machine Learning, Deep Learning
 - **Desenvolvimento de Hardware:** ESP32
+- **Desenvolvimento de Aplicações:** Spring Boot
 - **Ferramentas & Tecnologias Adicionais:** Git, Docker, Linux
 
 ## 🌱 Atualmente Estou Estudando
